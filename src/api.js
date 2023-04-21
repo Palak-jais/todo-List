@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 
-const baseUrl='https://backend-one-fq21.onrender.com';
+const baseUrl='https://todo-list-gcrz.onrender.com';
 
 const getAllList=(setList)=>{
     
